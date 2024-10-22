@@ -43,3 +43,5 @@ function removeDigit(number: string, digit: string): string {
     return current;
 };
 ```
+# Score
+Beats 97-100%
