@@ -34,3 +34,5 @@ function countDistinct(nums: number[], k: number, p: number): number {
     return subarrays.size;
 };
 ```
+# Score
+Beats 75% on time (according to leetcode chart this puts me in the top category?)
