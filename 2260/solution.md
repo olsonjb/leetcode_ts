@@ -35,3 +35,5 @@ function minimumCardPickup(cards: number[]): number {
     return min <= cards.length ? min : -1;
 };
 ```
+# Score
+Beats 100% time! ~75% space
